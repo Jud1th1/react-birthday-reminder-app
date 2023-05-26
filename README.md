@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Jud1th1/react-birthday-reminder-app)
-- Live Site: 
+- Live Site: https://csb-jupib5.netlify.app/
 
 ## My process
 - After watching a tutorial on the Birthday reminder app from FreeCodeCamp, I utilized my previous knowledge of CSS, JS, and React to enhance the application. I found the concept of the app intriguing because I struggle with remembering birthdays due to my large family. I designed this app specifically for myself and have plans to add more features in the future.
